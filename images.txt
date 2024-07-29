@@ -7,6 +7,7 @@ node:20.10.0
 node:20.15.0
 node:22.3.0
 node:18.20.3
+node:20-alpine
 portainer/portainer-ce
 bitnami/mysql
 mysql
@@ -17,6 +18,8 @@ nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
 nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
 nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
 nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu20.04
+
+nginx:stable-alpine3.17
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
