@@ -20,6 +20,7 @@ nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
 nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu20.04
 
 nginx:stable-alpine3.17
+nginx:1.27.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
