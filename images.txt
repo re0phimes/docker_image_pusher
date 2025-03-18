@@ -17,7 +17,8 @@
 # nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
 # nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
 # nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu20.04
-nvidia/cuda:12.2.0-devel-ubuntu22.04
+# nvidia/cuda:12.2.0-devel-ubuntu22.04
+nvidia/cuda:12.4.0-devel-ubuntu22.04
 
 # nginx:stable-alpine3.17
 # nginx:1.27.0
